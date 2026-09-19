@@ -1,8 +1,6 @@
-![Banner](https://giphy.com/gifs/southparkgifs-3o6Zt93byJYeHqvrwc)
+![GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JuN2d5bHNzdTc1dXJrNnA2emN4NHI4aDIybjJ1dXdyaTV4ZmpmeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SirUFDS5F83Go/giphy.gif)
 
 # Hello, I am Christ! 👋
-
----
 ![Static Badge](https://img.shields.io/badge/SCHOOL-Finger_Lakes_Community_College-darkgreen)
 ![Static Badge](https://img.shields.io/badge/MAJOR-Computer_Information_Systems-darkblue)
 ![Static Badge](https://img.shields.io/badge/YEAR-Sophomore-purple)
