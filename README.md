@@ -1,30 +1,18 @@
-## Hello, I am Christ! 👋
+![Banner](https://giphy.com/gifs/southparkgifs-3o6Zt93byJYeHqvrwc)
+
+# Hello, I am Christ! 👋
 
 ---
 ![Static Badge](https://img.shields.io/badge/SCHOOL-Finger_Lakes_Community_College-darkgreen)
 ![Static Badge](https://img.shields.io/badge/MAJOR-Computer_Information_Systems-darkblue)
+![Static Badge](https://img.shields.io/badge/YEAR-Sophomore-purple)
 
-I currently am a Sophomore at FLCC studying CIS, i am very interested in technologies especially in the programming part.
-things like **cybersecurity**, **networking**, **algorithms**, **engineering**, **development**, and many more intrigues my curiousity 
-and  the sense of wanting to learn it. I am very story at Java and i currently am learing Spring/Springboot for the year.
-
+I am very interested in technologies especially in the programming area, **cybersecurity**, **networking**, **algorithms**, **engineering**, **development**, and many more intrigues my curiousity 
+and yearning of wanting to learn it. 
 - I am very strong with `Java` and i am currently teaching myself `Spring/Springboot`.
 - I am currently looking for a programming/coding jobs. 
 - I believe that AI will become the best tool to use as an helping assistant for every programmer.
 - I am currently working on a project involving CLI and JavaFX switch-ups.
-
----
-
-### C O U R S E S
-
-
-![](https://img.shields.io/badge/CSC103-Computing_Sciences_Portal-000000?style=for-the-badge)
-![](https://img.shields.io/badge/CSC190-Object_Oriented_Soft_Development-000000?style=for-the-badge)
-![](https://img.shields.io/badge/CSC250-Cloud_Operations-000000?style=for-the-badge)
-![](https://img.shields.io/badge/CSC270-HARDWARE_&_OPERATING_Systems-000000?style=for-the-badge)
-![](https://img.shields.io/badge/CSC200-Data_Structures_&_Algorithms-000000?style=for-the-badge)
-![](https://img.shields.io/badge/MAT152-Pre_Calculus-000000?style=for-the-badge)
-
 
 ---
 
@@ -47,6 +35,19 @@ and  the sense of wanting to learn it. I am very story at Java and i currently a
 ![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-000000?style=for-the-badge&logo=RobloxStudio&logoColor=white)
 
 ---
+
+
+### C O U R S E S
+
+![](https://img.shields.io/badge/CSC103-Computing_Sciences_Portal-000000?style=for-the-badge)
+![](https://img.shields.io/badge/CSC190-Object_Oriented_Soft_Development-000000?style=for-the-badge)
+![](https://img.shields.io/badge/CSC250-Cloud_Operations-000000?style=for-the-badge)
+![](https://img.shields.io/badge/CSC270-HARDWARE_&_OPERATING_Systems-000000?style=for-the-badge)
+![](https://img.shields.io/badge/CSC200-Data_Structures_&_Algorithms-000000?style=for-the-badge)
+![](https://img.shields.io/badge/MAT152-Pre_Calculus-000000?style=for-the-badge)
+
+---
+
 ### **CONTACT ME**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christ-aerjil-dampog-246673345/)
