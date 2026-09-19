@@ -1,30 +1,37 @@
+## Hello, I am Christ! 👋
 
+---
+### Majoring in Computer Information Systems at Finger Lakes Community College.
 
-### **ABOUT ME**
-I'm the quiet one in the corner who notices the details everyone else misses.  
-I build clean systems, sharp tools, and things that work when everything else fails.
+<p> My dream job is to become a Software Engineer or programming/coding related jobs. I am motivated to learn about
+technologies and programming.
 
-- 🔭 Currently crafting in the dark
-- 🧠 Obsessed with architecture, performance & elegance
-- ⚔️ Prefer depth over noise
-- 🌑 Night is when the real work happens
+My main programming languages that i use is Java.
+</p>
 
-<br>
 
 ---
 
-<div align="center">
+---
 
 ### **T E C H  S T A C K**
 
-</div>
-<div align="center">
-
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=Java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=Spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+
+---
+
+### **T O O L S**
+
+![IntelliJ IDEA](https://img.shields.io/badge/-Intelli_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Wix](https://img.shields.io/badge/-Wix-000000?style=for-the-badge&logo=Wix&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=AWS&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-000000?style=for-the-badge&logo=RobloxStudio&logoColor=white)
+
 
 ---
 ### **CONTACT ME**
