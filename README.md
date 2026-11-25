@@ -15,7 +15,6 @@ and yearning of wanting to learn it.
 ### **L A N G U A G E S**
 
 ![Java](https://img.shields.io/badge/-java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-000000?style=for-the-badge&logo=Spring&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Lua](https://img.shields.io/badge/-Lua-000000?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=white)
